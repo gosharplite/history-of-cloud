@@ -28,7 +28,7 @@
 
 2015/7 - Kubernetes 1.0
 
-2015/7 - [CNCF](https://cncf.io/)
+2015/7 - [CNCF](https://cncf.io/) start
 
 2015/8 - Golang 1.5
 
