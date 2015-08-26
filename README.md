@@ -47,3 +47,28 @@ https://www.youtube.com/watch?v=NnhmHpywdW0&feature=youtu.be&t=1h1m15s<br>
 https://github.com/coreos/coreos-overlay/pull/777<br>
 https://github.com/coreos/coreos-overlay/pull/1311<br>
 <hr>
+systemd by Lennart Poettering.<br>
+https://www.youtube.com/watch?v=VIPonFvPlAs<br>
+- rkt uses systemd-nspawn for the actual containerization.<br>
+- docker uses http://en.wikipedia.org/wiki/Docker_%28software%29<br>
+- systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)<br>
+<br>
+http://www.informationweek.com/software/operating-systems/controversial-lennart-poettering-finds-his-place-in-linux-community/a/d-id/1320316<br>
+http://en.wikipedia.org/wiki/Unix_philosophy<br>
+http://0pointer.de/blog/projects/the-biggest-myths<br>
+https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd<br>
+<hr>
+CAP theorem<br>
+<br>
+Please stop calling databases CP or AP (Brandon Philips, majority quorum, Martin Kleppmann).<br>
+https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html<br>
+http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/<br>
+http://henryr.github.io/cap-faq/<br>
+http://codahale.com/you-cant-sacrifice-partition-tolerance/<br>
+<br>
+[CAP theorem creator on the future](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)<br>
+<br>
+[Head to head](https://twitter.com/martinkl/status/613038862919671808?replies_view=true&cursor=AKDWixr0gQg)
+<hr>
+
+CAP theorem creator on the future
