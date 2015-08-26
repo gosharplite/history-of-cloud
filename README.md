@@ -29,8 +29,8 @@
 [Flannel explained](https://www.youtube.com/watch?v=_HYeSaGtEYw)
 <hr>
 Bryan Cantrill (Cloud Native Computing Foundation)<br>
-http://www.slideshare.net/bcantrill/leaping-the-chasm-from-proprietary-to-open-a-survivors-guide<br>
-http://dtrace.org/blogs/bmc/2015/07/21/the-foundation-of-cloud-native-computing/
+[Leaping the chasm from proprietary to open](http://www.slideshare.net/bcantrill/leaping-the-chasm-from-proprietary-to-open-a-survivors-guide)<br>
+[The foundation of cloud-native computing](http://dtrace.org/blogs/bmc/2015/07/21/the-foundation-of-cloud-native-computing/)<br>
 <hr>
 [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/), [twitter](https://twitter.com/kelseyhightower/status/626057416463912960).<br>
 [Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg #titanous<br>
