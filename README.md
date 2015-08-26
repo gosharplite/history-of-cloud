@@ -70,3 +70,17 @@ http://codahale.com/you-cant-sacrifice-partition-tolerance/<br>
 <br>
 [Head to head](https://twitter.com/martinkl/status/613038862919671808?replies_view=true&cursor=AKDWixr0gQg)<br>
 <hr>
+[Kelsey vs Solomon](https://twitter.com/solomonstre/status/621938165784297472)<br>
+<hr>
+Container Native Package System (Joe Beda)<br>
+http://www.eightypercent.net/post/new-container-image-format.html<br>
+https://news.ycombinator.com/item?id=9814131<br>
+<hr>
+Get your ops story straight<br>
+Have crisp answers for<br>
+1)Networking<br>
+2)Logging<br>
+3)Monitoring<br>
+4)Security<br>
+5)Upgrades<br>
+<hr>
