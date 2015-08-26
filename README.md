@@ -1,12 +1,12 @@
 # History of cloud
 
 2012/3 - [Golang](https://golang.org/) 1.0<br>
-2013/3 - Docker first version<br>
-2013/7 - CoreOS start<br>
+2013/3 - [Docker](https://www.docker.com/) first version<br>
+2013/7 - [CoreOS](https://coreos.com/) start<br>
 2014/4 - Redhat [Atomic](http://www.projectatomic.io/) start<br>
-2014/6 - [Docker](https://www.docker.com/) 1.0<br>
+2014/6 - Docker 1.0<br>
 2014/7 - [Kubernetes](http://kubernetes.io/) start<br>
-2014/7 - [CoreOS](https://coreos.com/) 367.1 first stable version<br>
+2014/7 - CoreOS 367.1 first stable version<br>
 2014/12 - [rkt, appc](https://coreos.com/blog/rocket/) start<br>
 1014/12 - Docker machine/swarm/compose start<br>
 2014/12 - Ubuntu [Snappy](http://www.markshuttleworth.com/archives/1434)<br>
