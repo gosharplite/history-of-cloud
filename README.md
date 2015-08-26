@@ -39,3 +39,11 @@ http://blog.docker.com/2015/08/content-trust-docker-1-8/<br>
 https://twitter.com/kelseyhightower/status/631697830487261185<br>
 https://twitter.com/BrandonPhilips/status/631705281471213573<br>
 https://titanous.com/posts/docker-insecurity<br>
+<hr>
+Shot fired at CoreOS.<br>
+https://www.youtube.com/watch?v=a9lE9Urr6AQ&feature=youtu.be&t=9m40s<br>
+https://www.youtube.com/watch?v=zWGFqMuEHdw<br>
+https://www.youtube.com/watch?v=NnhmHpywdW0&feature=youtu.be&t=1h1m15s<br>
+https://github.com/coreos/coreos-overlay/pull/777<br>
+https://github.com/coreos/coreos-overlay/pull/1311<br>
+<hr>
