@@ -41,3 +41,9 @@
 [Immutable Infrastructure Is The Future](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future) (by creator of Ansible and Cobbler)
 
 [Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg #titanous
+
+[Docker Gets Serious About Security](http://www.eweek.com/security/docker-gets-serious-about-security.html?utm_medium=email&utm_campaign=EWK_NL_LPU_20150513_STR4L1&dni=245713323&rni=24844166).
+
+[It’s The Future](http://blog.circleci.com/its-the-future/)
+
+[K8s on wired](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1).
