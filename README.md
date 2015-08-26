@@ -49,9 +49,9 @@ https://github.com/coreos/coreos-overlay/pull/1311<br>
 <hr>
 systemd by Lennart Poettering.<br>
 https://www.youtube.com/watch?v=VIPonFvPlAs<br>
-- rkt uses systemd-nspawn for the actual containerization.<br>
-- docker uses http://en.wikipedia.org/wiki/Docker_%28software%29<br>
-- systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)<br>
+1) rkt uses systemd-nspawn for the actual containerization.<br>
+2) docker uses http://en.wikipedia.org/wiki/Docker_%28software%29<br>
+3) systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)<br>
 <br>
 http://www.informationweek.com/software/operating-systems/controversial-lennart-poettering-finds-his-place-in-linux-community/a/d-id/1320316<br>
 http://en.wikipedia.org/wiki/Unix_philosophy<br>
@@ -70,5 +70,3 @@ http://codahale.com/you-cant-sacrifice-partition-tolerance/<br>
 <br>
 [Head to head](https://twitter.com/martinkl/status/613038862919671808?replies_view=true&cursor=AKDWixr0gQg)
 <hr>
-
-CAP theorem creator on the future
