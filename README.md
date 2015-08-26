@@ -35,10 +35,10 @@ Bryan Cantrill (Cloud Native Computing Foundation)<br>
 [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/), [twitter](https://twitter.com/kelseyhightower/status/626057416463912960).<br>
 [Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg #titanous<br>
 [Docker Gets Serious About Security](http://www.eweek.com/security/docker-gets-serious-about-security.html?utm_medium=email&utm_campaign=EWK_NL_LPU_20150513_STR4L1&dni=245713323&rni=24844166).<br>
-http://blog.docker.com/2015/08/content-trust-docker-1-8/<br>
-https://twitter.com/kelseyhightower/status/631697830487261185<br>
-https://twitter.com/BrandonPhilips/status/631705281471213573<br>
-https://titanous.com/posts/docker-insecurity<br>
+[Introducing docker content trust](http://blog.docker.com/2015/08/content-trust-docker-1-8/)<br>
+[Twitter - Kelsey Hightower](https://twitter.com/kelseyhightower/status/631697830487261185)<br>
+[Twitter - Brandon Philips](https://twitter.com/BrandonPhilips/status/631705281471213573)<br>
+[Docker Image Insecurity - Jonathan Rudenberg](https://titanous.com/posts/docker-insecurity)<br>
 <hr>
 Shot fired at CoreOS.<br>
 https://www.youtube.com/watch?v=a9lE9Urr6AQ&feature=youtu.be&t=9m40s<br>
