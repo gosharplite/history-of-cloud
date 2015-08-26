@@ -35,3 +35,5 @@
 [Graph by Sam Ramji](https://twitter.com/solomonstre/status/634159354103488512)
 
 [Mesos](http://www.wired.com/2013/03/google-borg-twitter-mesos/)
+
+[RedHat's stand on container](http://www.redhat.com/en/about/blog/taking-stand-against-container-fragmentationwith-standards) and [rkt, appc, Docker](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/).
