@@ -31,7 +31,7 @@
 2015/7 - [CNCF](https://cncf.io/) start
 
 2015/8 - Golang 1.5
-
+<hr>
 [Graph by Sam Ramji](https://twitter.com/solomonstre/status/634159354103488512)
 
 [Mesos](http://www.wired.com/2013/03/google-borg-twitter-mesos/)
@@ -40,12 +40,8 @@
 
 [Immutable Infrastructure Is The Future](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future) (by creator of Ansible and Cobbler)
 
-[Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg #titanous
-
-[Docker Gets Serious About Security](http://www.eweek.com/security/docker-gets-serious-about-security.html?utm_medium=email&utm_campaign=EWK_NL_LPU_20150513_STR4L1&dni=245713323&rni=24844166).
-
 [It’s The Future](http://blog.circleci.com/its-the-future/)
-
+<hr>
 [K8s on wired](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1).
 
 [K8s by Brendan Burns](https://www.youtube.com/watch?v=WwBdNXt6wO4)
@@ -53,4 +49,23 @@
 [Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns)
 
 [Flannel explained](https://www.youtube.com/watch?v=_HYeSaGtEYw)
+<hr>
+Bryan Cantrill (Cloud Native Computing Foundation)
 
+http://www.slideshare.net/bcantrill/leaping-the-chasm-from-proprietary-to-open-a-survivors-guide
+
+http://dtrace.org/blogs/bmc/2015/07/21/the-foundation-of-cloud-native-computing/
+<hr>
+[Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/), [twitter](https://twitter.com/kelseyhightower/status/626057416463912960).
+
+[Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg #titanous
+
+[Docker Gets Serious About Security](http://www.eweek.com/security/docker-gets-serious-about-security.html?utm_medium=email&utm_campaign=EWK_NL_LPU_20150513_STR4L1&dni=245713323&rni=24844166).
+
+http://blog.docker.com/2015/08/content-trust-docker-1-8/
+
+https://twitter.com/kelseyhightower/status/631697830487261185
+
+https://twitter.com/BrandonPhilips/status/631705281471213573
+
+https://titanous.com/posts/docker-insecurity
