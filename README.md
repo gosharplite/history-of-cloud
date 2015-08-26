@@ -24,7 +24,7 @@
 
 2015/5 - [Omega](http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Schwarzkopf.pdf) [becomes part of](http://www.theplatform.net/2015/05/05/google-omega-to-become-part-of-borg-collective/) [borg](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/43438.pdf).
 
-2015/6 - [OCI](https://www.opencontainers.org/) start
+2015/6 - [OCI](https://www.opencontainers.org/) start. [End of container war](http://www.theregister.co.uk/2015/05/05/coreos_fest_roundtable/).
 
 2015/7 - Kubernetes 1.0
 
