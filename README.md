@@ -15,8 +15,8 @@
 2015/6 - [OCI](https://www.opencontainers.org/) start. [End of container war](http://www.theregister.co.uk/2015/05/05/coreos_fest_roundtable/)?<br>
 2015/7 - Kubernetes 1.0<br>
 2015/7 - [CNCF](https://cncf.io/) start<br>
-2015/8 - Golang 1.5
-2015/8 - GKE is GA
+2015/8 - Golang 1.5<br>
+2015/8 - GKE is GA<br>
 <hr>
 [Graph by Sam Ramji](https://twitter.com/solomonstre/status/634159354103488512)<br>
 [Mesos](http://www.wired.com/2013/03/google-borg-twitter-mesos/)<br>
