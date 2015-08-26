@@ -37,3 +37,5 @@
 [Mesos](http://www.wired.com/2013/03/google-borg-twitter-mesos/)
 
 [RedHat's stand on container](http://www.redhat.com/en/about/blog/taking-stand-against-container-fragmentationwith-standards) and [rkt, appc, Docker](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/).
+
+[Immutable Infrastructure Is The Future](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future) (by creator of Ansible and Cobbler)
