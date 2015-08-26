@@ -47,3 +47,10 @@
 [It’s The Future](http://blog.circleci.com/its-the-future/)
 
 [K8s on wired](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1).
+
+[K8s by Brendan Burns](https://www.youtube.com/watch?v=WwBdNXt6wO4)
+https://www.youtube.com/watch?v=Ph3t8jIt894)
+[Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns)
+
+[Flannel explained](https://www.youtube.com/watch?v=_HYeSaGtEYw)
+
