@@ -1,6 +1,6 @@
 # History of cloud
 
-2012/3 - [Golang 1.0](https://golang.org/)
+2012/3 - [Golang](https://golang.org/) 1.0
 
 2013/3 - Docker first version
 
