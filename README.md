@@ -25,7 +25,7 @@
 [Immutable Infrastructure Is The Future](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future) (Michael Dehaan, creator of Ansible and Cobbler)<br>
 [It’s The Future](http://blog.circleci.com/its-the-future/)
 <hr>
-[K8s on wired](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1).<br>
+[K8s on wired](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1)<br>
 [K8s by Brendan Burns](https://www.youtube.com/watch?v=WwBdNXt6wO4)<br>
 [Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns)<br>
 [Flannel explained](https://www.youtube.com/watch?v=_HYeSaGtEYw)
@@ -41,7 +41,7 @@
 [Twitter - Brandon Philips](https://twitter.com/BrandonPhilips/status/631705281471213573)<br>
 [Docker Image Insecurity - Jonathan Rudenberg](https://titanous.com/posts/docker-insecurity)<br>
 <hr>
-Shot fired at CoreOS.<br>
+Shot fired at CoreOS<br>
 https://www.youtube.com/watch?v=a9lE9Urr6AQ&feature=youtu.be&t=9m40s<br>
 https://www.youtube.com/watch?v=zWGFqMuEHdw<br>
 https://www.youtube.com/watch?v=NnhmHpywdW0&feature=youtu.be&t=1h1m15s<br>
