@@ -26,7 +26,7 @@
 [It’s The Future](http://blog.circleci.com/its-the-future/)
 <hr>
 [K8s on wired](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1)<br>
-[K8s by Brendan Burns](https://www.youtube.com/watch?v=WwBdNXt6wO4)<br>
+[A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (Brendan Burns)<br>
 [Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns)<br>
 [Flannel explained](https://www.youtube.com/watch?v=_HYeSaGtEYw)
 <hr>
@@ -70,7 +70,7 @@ https://github.com/coreos/coreos-overlay/pull/1311<br>
 <hr>
 [Kelsey vs Solomon](https://twitter.com/solomonstre/status/621938165784297472)<br>
 <hr>
-[Container Native Package System](http://www.eightypercent.net/post/new-container-image-format.html) (Joe Beda), [discussion](https://news.ycombinator.com/item?id=9814131)<br>
+[Container Native Package System](http://www.eightypercent.net/post/new-container-image-format.html), [discussion](https://news.ycombinator.com/item?id=9814131) (Joe Beda)<br>
 <hr>
 Get your ops story straight. Have crisp answers for<br>
 
