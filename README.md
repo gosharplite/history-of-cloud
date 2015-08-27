@@ -35,7 +35,7 @@ Bryan Cantrill (Cloud Native Computing Foundation)<br>
 [The foundation of cloud-native computing](http://dtrace.org/blogs/bmc/2015/07/21/the-foundation-of-cloud-native-computing/)<br>
 <hr>
 [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/), [twitter](https://twitter.com/kelseyhightower/status/626057416463912960).<br>
-[Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg #titanous<br>
+[Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg<br>
 [Docker Gets Serious About Security](http://www.eweek.com/security/docker-gets-serious-about-security.html?utm_medium=email&utm_campaign=EWK_NL_LPU_20150513_STR4L1&dni=245713323&rni=24844166).<br>
 [Introducing docker content trust](http://blog.docker.com/2015/08/content-trust-docker-1-8/)<br>
 [Twitter - Kelsey Hightower](https://twitter.com/kelseyhightower/status/631697830487261185)<br>
