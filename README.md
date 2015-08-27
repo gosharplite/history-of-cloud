@@ -25,7 +25,7 @@
 [Immutable Infrastructure Is The Future](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future) (Michael Dehaan, creator of Ansible and Cobbler)<br>
 [It’s The Future](http://blog.circleci.com/its-the-future/)
 <hr>
-[K8s on wired](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1)<br>
+[Google Made Its Secret Blueprint Public to Boost Its Cloud](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1)<br>
 [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (Brendan Burns)<br>
 [Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns)<br>
 [Flannel explained](https://www.youtube.com/watch?v=_HYeSaGtEYw)
@@ -33,9 +33,9 @@
 [Leaping the chasm from proprietary to open](http://www.slideshare.net/bcantrill/leaping-the-chasm-from-proprietary-to-open-a-survivors-guide) (Bryan Cantrill)<br>
 [The foundation of cloud-native computing](http://dtrace.org/blogs/bmc/2015/07/21/the-foundation-of-cloud-native-computing/) (CNCF)<br>
 <hr>
-[Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/), [twitter](https://twitter.com/kelseyhightower/status/626057416463912960).<br>
-[Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg<br>
-[Docker Gets Serious About Security](http://www.eweek.com/security/docker-gets-serious-about-security.html?utm_medium=email&utm_campaign=EWK_NL_LPU_20150513_STR4L1&dni=245713323&rni=24844166).<br>
+[Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/), [twitter](https://twitter.com/kelseyhightower/status/626057416463912960)<br>
+[Docker security fight](https://github.com/docker/docker/issues/9719) (Jonathan Rudenberg)<br>
+[Docker Gets Serious About Security](http://www.eweek.com/security/docker-gets-serious-about-security.html?utm_medium=email&utm_campaign=EWK_NL_LPU_20150513_STR4L1&dni=245713323&rni=24844166)<br>
 [Introducing docker content trust](http://blog.docker.com/2015/08/content-trust-docker-1-8/)<br>
 [Twitter - Kelsey Hightower](https://twitter.com/kelseyhightower/status/631697830487261185)<br>
 [Twitter - Brandon Philips](https://twitter.com/BrandonPhilips/status/631705281471213573)<br>
