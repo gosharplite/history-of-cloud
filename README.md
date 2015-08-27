@@ -41,12 +41,11 @@
 [Twitter](https://twitter.com/BrandonPhilips/status/631705281471213573) (Brandon Philips)<br>
 [Docker Image Insecurity](https://titanous.com/posts/docker-insecurity) (Jonathan Rudenberg)<br>
 <hr>
-Shot fired at CoreOS<br>
-https://www.youtube.com/watch?v=a9lE9Urr6AQ&feature=youtu.be&t=9m40s<br>
-https://www.youtube.com/watch?v=zWGFqMuEHdw<br>
-https://www.youtube.com/watch?v=NnhmHpywdW0&feature=youtu.be&t=1h1m15s<br>
-https://github.com/coreos/coreos-overlay/pull/777<br>
-https://github.com/coreos/coreos-overlay/pull/1311<br>
+[Shot fired at CoreOS](https://www.youtube.com/watch?v=a9lE9Urr6AQ&feature=youtu.be&t=9m40s) (Daniel Walsh)<br>
+[Docker and SELinux](https://www.youtube.com/watch?v=zWGFqMuEHdw) (Daniel Walsh)<br>
+[Shot fired at RedHat](https://www.youtube.com/watch?v=NnhmHpywdW0&feature=youtu.be&t=1h1m15s) (Brian Harrington)<br>
+[CoreOS enable selinux support](https://github.com/coreos/coreos-overlay/pull/777)<br>
+[CoreOS bring in custom selinux work](https://github.com/coreos/coreos-overlay/pull/1311)<br>
 <hr>
 [systemd at the Core of the OS](https://www.youtube.com/watch?v=VIPonFvPlAs) (Lennart Poettering)<br>
 
