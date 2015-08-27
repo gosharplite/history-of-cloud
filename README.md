@@ -60,8 +60,6 @@ http://en.wikipedia.org/wiki/Unix_philosophy<br>
 http://0pointer.de/blog/projects/the-biggest-myths<br>
 https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd<br>
 <hr>
-CAP theorem<br>
-<br>
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Martin Kleppmann).<br>
 [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)<br>
 [The CAP FAQ](http://henryr.github.io/cap-faq/)<br>
@@ -75,8 +73,7 @@ CAP theorem<br>
 <hr>
 [Container Native Package System](http://www.eightypercent.net/post/new-container-image-format.html) (Joe Beda), [discussion](https://news.ycombinator.com/item?id=9814131)<br>
 <hr>
-Get your ops story straight.<br>
-Have crisp answers for<br>
+Get your ops story straight. Have crisp answers for<br>
 
 1. Networking
 2. Logging
