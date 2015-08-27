@@ -48,9 +48,9 @@ https://www.youtube.com/watch?v=NnhmHpywdW0&feature=youtu.be&t=1h1m15s<br>
 https://github.com/coreos/coreos-overlay/pull/777<br>
 https://github.com/coreos/coreos-overlay/pull/1311<br>
 <hr>
-[systemd at the Core of the OS](https://www.youtube.com/watch?v=VIPonFvPlAs) (Lennart Poettering).<br>
+[systemd at the Core of the OS](https://www.youtube.com/watch?v=VIPonFvPlAs) (Lennart Poettering)<br>
 
-1. rkt uses systemd-nspawn for the actual containerization.
+1. rkt uses systemd-nspawn for the actual containerization
 2. docker [wiki](http://en.wikipedia.org/wiki/Docker_%28software%29)
 3. systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)
 
@@ -59,7 +59,7 @@ https://github.com/coreos/coreos-overlay/pull/1311<br>
 [The Biggest Myths](http://0pointer.de/blog/projects/the-biggest-myths)<br>
 [Why you cannot trust Lennart Poettering / systemd](https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd)<br>
 <hr>
-[Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Martin Kleppmann).<br>
+[Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Martin Kleppmann)<br>
 [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)<br>
 [The CAP FAQ](http://henryr.github.io/cap-faq/)<br>
 [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)<br>
