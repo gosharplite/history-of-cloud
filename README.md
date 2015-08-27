@@ -17,7 +17,7 @@
 2015/7 - Kubernetes 1.0<br>
 2015/7 - [CNCF](https://cncf.io/) start<br>
 2015/8 - Golang 1.5<br>
-2015/8 - GKE is GA<br>
+2015/8 - [GKE](https://cloud.google.com/container-engine/) is [GA](http://googlecloudplatform.blogspot.tw/2015/08/Google-Container-Engine-is-Generally-Available.html)<br>
 <hr>
 [Graph by Sam Ramji](https://twitter.com/solomonstre/status/634159354103488512)<br>
 [Mesos](http://www.wired.com/2013/03/google-borg-twitter-mesos/)<br>
