@@ -30,9 +30,8 @@
 [Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns)<br>
 [Flannel explained](https://www.youtube.com/watch?v=_HYeSaGtEYw)
 <hr>
-Bryan Cantrill (Cloud Native Computing Foundation)<br>
-[Leaping the chasm from proprietary to open](http://www.slideshare.net/bcantrill/leaping-the-chasm-from-proprietary-to-open-a-survivors-guide)<br>
-[The foundation of cloud-native computing](http://dtrace.org/blogs/bmc/2015/07/21/the-foundation-of-cloud-native-computing/)<br>
+[Leaping the chasm from proprietary to open](http://www.slideshare.net/bcantrill/leaping-the-chasm-from-proprietary-to-open-a-survivors-guide) (Bryan Cantrill)<br>
+[The foundation of cloud-native computing](http://dtrace.org/blogs/bmc/2015/07/21/the-foundation-of-cloud-native-computing/) (CNCF)<br>
 <hr>
 [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/), [twitter](https://twitter.com/kelseyhightower/status/626057416463912960).<br>
 [Docker security fight](https://github.com/docker/docker/issues/9719). Jonathan Rudenberg<br>
