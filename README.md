@@ -54,10 +54,10 @@ https://github.com/coreos/coreos-overlay/pull/1311<br>
 2. docker [wiki](http://en.wikipedia.org/wiki/Docker_%28software%29)
 3. systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)
 
-http://www.informationweek.com/software/operating-systems/controversial-lennart-poettering-finds-his-place-in-linux-community/a/d-id/1320316<br>
-http://en.wikipedia.org/wiki/Unix_philosophy<br>
-http://0pointer.de/blog/projects/the-biggest-myths<br>
-https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd<br>
+[Controversial Lennart Poettering Finds His Place In Linux Community](http://www.informationweek.com/software/operating-systems/controversial-lennart-poettering-finds-his-place-in-linux-community/a/d-id/1320316)<br>
+[https://en.wikipedia.org/wiki/Unix_philosophy](http://en.wikipedia.org/wiki/Unix_philosophy)<br>
+[The Biggest Myths](http://0pointer.de/blog/projects/the-biggest-myths)<br>
+[Why you cannot trust Lennart Poettering / systemd](https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd)<br>
 <hr>
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Martin Kleppmann).<br>
 [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)<br>
