@@ -55,7 +55,7 @@ https://github.com/coreos/coreos-overlay/pull/1311<br>
 3. systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)
 
 [Controversial Lennart Poettering Finds His Place In Linux Community](http://www.informationweek.com/software/operating-systems/controversial-lennart-poettering-finds-his-place-in-linux-community/a/d-id/1320316)<br>
-[https://en.wikipedia.org/wiki/Unix_philosophy](http://en.wikipedia.org/wiki/Unix_philosophy)<br>
+[Unix philosophy](http://en.wikipedia.org/wiki/Unix_philosophy)<br>
 [The Biggest Myths](http://0pointer.de/blog/projects/the-biggest-myths)<br>
 [Why you cannot trust Lennart Poettering / systemd](https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd)<br>
 <hr>
