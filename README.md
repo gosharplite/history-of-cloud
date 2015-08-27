@@ -67,7 +67,7 @@ CAP theorem<br>
 [The CAP FAQ](http://henryr.github.io/cap-faq/)<br>
 [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)<br>
 <br>
-[CAP theorem creator on the future](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)<br>
+[CAP theorem creator on the future](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95) (Eric Brewer)<br>
 <br>
 [Head to head](https://twitter.com/martinkl/status/613038862919671808?replies_view=true&cursor=AKDWixr0gQg)<br>
 <hr>
