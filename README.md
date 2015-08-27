@@ -19,7 +19,7 @@
 2015/8 - Golang [1.5](https://blog.golang.org/go1.5)<br>
 2015/8 - [GKE](https://cloud.google.com/container-engine/) is [GA](http://googlecloudplatform.blogspot.tw/2015/08/Google-Container-Engine-is-Generally-Available.html)<br>
 <hr>
-[Graph by Sam Ramji](https://twitter.com/solomonstre/status/634159354103488512)<br>
+[History graph](https://twitter.com/solomonstre/status/634159354103488512) (Sam Ramji)<br>
 [Mesos](http://www.wired.com/2013/03/google-borg-twitter-mesos/)<br>
 [RedHat's stand on container](http://www.redhat.com/en/about/blog/taking-stand-against-container-fragmentationwith-standards) and [rkt, appc, Docker](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/).<br>
 [Immutable Infrastructure Is The Future](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future) (Michael Dehaan, creator of Ansible and Cobbler)<br>
@@ -37,9 +37,9 @@
 [Docker security fight](https://github.com/docker/docker/issues/9719) (Jonathan Rudenberg)<br>
 [Docker Gets Serious About Security](http://www.eweek.com/security/docker-gets-serious-about-security.html?utm_medium=email&utm_campaign=EWK_NL_LPU_20150513_STR4L1&dni=245713323&rni=24844166)<br>
 [Introducing docker content trust](http://blog.docker.com/2015/08/content-trust-docker-1-8/)<br>
-[Twitter - Kelsey Hightower](https://twitter.com/kelseyhightower/status/631697830487261185)<br>
-[Twitter - Brandon Philips](https://twitter.com/BrandonPhilips/status/631705281471213573)<br>
-[Docker Image Insecurity - Jonathan Rudenberg](https://titanous.com/posts/docker-insecurity)<br>
+[Twitter](https://twitter.com/kelseyhightower/status/631697830487261185) (Kelsey Hightower)<br>
+[Twitter](https://twitter.com/BrandonPhilips/status/631705281471213573) (Brandon Philips)<br>
+[Docker Image Insecurity](https://titanous.com/posts/docker-insecurity) (Jonathan Rudenberg)<br>
 <hr>
 Shot fired at CoreOS<br>
 https://www.youtube.com/watch?v=a9lE9Urr6AQ&feature=youtu.be&t=9m40s<br>
