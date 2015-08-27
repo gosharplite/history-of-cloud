@@ -52,7 +52,7 @@ https://github.com/coreos/coreos-overlay/pull/1311<br>
 
 1. rkt uses systemd-nspawn for the actual containerization
 2. docker [wiki](http://en.wikipedia.org/wiki/Docker_%28software%29)
-3. systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)
+3. low level container implementation: systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd
 
 [Controversial Lennart Poettering Finds His Place In Linux Community](http://www.informationweek.com/software/operating-systems/controversial-lennart-poettering-finds-his-place-in-linux-community/a/d-id/1320316)<br>
 [Unix philosophy](http://en.wikipedia.org/wiki/Unix_philosophy)<br>
