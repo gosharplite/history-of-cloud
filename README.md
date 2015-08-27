@@ -48,12 +48,12 @@ https://www.youtube.com/watch?v=NnhmHpywdW0&feature=youtu.be&t=1h1m15s<br>
 https://github.com/coreos/coreos-overlay/pull/777<br>
 https://github.com/coreos/coreos-overlay/pull/1311<br>
 <hr>
-systemd by Lennart Poettering.<br>
-https://www.youtube.com/watch?v=VIPonFvPlAs<br>
-1) rkt uses systemd-nspawn for the actual containerization.<br>
-2) docker uses http://en.wikipedia.org/wiki/Docker_%28software%29<br>
-3) systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)<br>
-<br>
+[systemd at the Core of the OS](https://www.youtube.com/watch?v=VIPonFvPlAs) (Lennart Poettering).<br>
+
+1. rkt uses systemd-nspawn for the actual containerization.
+2. docker [wiki](http://en.wikipedia.org/wiki/Docker_%28software%29)
+3. systemd-nspawn, systemd-machined, systemd-networkd, systemd-resolved, systemd-importd (low level container implementation)
+
 http://www.informationweek.com/software/operating-systems/controversial-lennart-poettering-finds-his-place-in-linux-community/a/d-id/1320316<br>
 http://en.wikipedia.org/wiki/Unix_philosophy<br>
 http://0pointer.de/blog/projects/the-biggest-myths<br>
