@@ -22,7 +22,7 @@
 [Graph by Sam Ramji](https://twitter.com/solomonstre/status/634159354103488512)<br>
 [Mesos](http://www.wired.com/2013/03/google-borg-twitter-mesos/)<br>
 [RedHat's stand on container](http://www.redhat.com/en/about/blog/taking-stand-against-container-fragmentationwith-standards) and [rkt, appc, Docker](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/).<br>
-[Immutable Infrastructure Is The Future](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future) (Michael Dehaan ,creator of Ansible and Cobbler)<br>
+[Immutable Infrastructure Is The Future](http://michaeldehaan.net/post/118717252307/immutable-infrastructure-is-the-future) (Michael Dehaan, creator of Ansible and Cobbler)<br>
 [It’s The Future](http://blog.circleci.com/its-the-future/)
 <hr>
 [K8s on wired](http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/), [photo](https://twitter.com/jbeda/status/608703174992535552/photo/1).<br>
