@@ -62,11 +62,10 @@ https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennar
 <hr>
 CAP theorem<br>
 <br>
-Please stop calling databases CP or AP (Brandon Philips, majority quorum, Martin Kleppmann).<br>
-https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html<br>
-http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/<br>
-http://henryr.github.io/cap-faq/<br>
-http://codahale.com/you-cant-sacrifice-partition-tolerance/<br>
+[Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Martin Kleppmann).<br>
+[Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)<br>
+[The CAP FAQ](http://henryr.github.io/cap-faq/)<br>
+[You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)<br>
 <br>
 [CAP theorem creator on the future](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)<br>
 <br>
