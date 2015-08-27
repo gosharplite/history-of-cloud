@@ -80,9 +80,10 @@ https://news.ycombinator.com/item?id=9814131<br>
 <hr>
 Get your ops story straight<br>
 Have crisp answers for<br>
-1. Networking<br>
-2. Logging<br>
-3. Monitoring<br>
-4. Security<br>
-5. Upgrades<br>
+
+1. Networking
+2. Logging
+3. Monitoring
+4. Security
+5. Upgrades
 <hr>
