@@ -23,7 +23,7 @@
 * container (docker, rkt, appc, runC, OCI)
 * minimal linux (coreOS, Atomic, Snappy, RanckerOS)
 * distributed cluster (bare metal, hypervisor, container)
-* config automation (Puppet/Chef/Ansible/Salt vs. fleet/k8s)
+* [devops](https://xebialabs.com/periodic-table-of-devops-tools/) (Puppet/Chef/Ansible/Salt vs. fleet/k8s)
 * open vs proprietary (foundation, enterprise)
 * language (golang, c, java, python)
 
