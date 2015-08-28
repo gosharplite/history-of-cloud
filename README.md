@@ -19,6 +19,14 @@
 2015/8 - Golang [1.5](https://blog.golang.org/go1.5)<br>
 2015/8 - [GKE](https://cloud.google.com/container-engine/) is [GA](http://googlecloudplatform.blogspot.tw/2015/08/Google-Container-Engine-is-Generally-Available.html)<br>
 <hr>
+# Battlefields
+* container (docker, rkt, appc, runC, OCI)
+* minimal linux (coreOS, Atomic, Snappy, RanckerOS)
+* distributed cluster (bare metal, hypervisor, container)
+* config automation (Puppet/Chef/Ansible/Salt vs. fleet/k8s)
+* language (golang, c, java, python)
+
+<hr>
 [History graph](https://twitter.com/solomonstre/status/634159354103488512) (Sam Ramji)<br>
 [Mesos](http://www.wired.com/2013/03/google-borg-twitter-mesos/)<br>
 [RedHat's stand on container](http://www.redhat.com/en/about/blog/taking-stand-against-container-fragmentationwith-standards) and [rkt, appc, Docker](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/).<br>
@@ -71,7 +79,8 @@
 <hr>
 [Container Native Package System](http://www.eightypercent.net/post/new-container-image-format.html), [discussion](https://news.ycombinator.com/item?id=9814131) (Joe Beda)<br>
 <hr>
-Get your ops story straight. Have crisp answers for<br>
+Get your ops story straight.<br>
+Have crisp answers for<br>
 
 1. Networking
 2. Logging
