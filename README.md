@@ -71,6 +71,7 @@
 [Why you cannot trust Lennart Poettering / systemd](https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd)<br>
 [About the systemd controversy...](http://blog.erratasec.com/2015/08/about-systemd-controversy.html#.VeOewd9_e6l)
 <hr>
+##CAP
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Martin Kleppmann)<br>
 [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)<br>
 [The CAP FAQ](http://henryr.github.io/cap-faq/)<br>
@@ -80,10 +81,12 @@
 <br>
 [Head to head](https://twitter.com/martinkl/status/613038862919671808?replies_view=true&cursor=AKDWixr0gQg)<br>
 <hr>
+##runC
 [Kelsey vs Solomon](https://twitter.com/solomonstre/status/621938165784297472)<br>
 <hr>
 [Container Native Package System](http://www.eightypercent.net/post/new-container-image-format.html), [discussion](https://news.ycombinator.com/item?id=9814131) (Joe Beda)<br>
 <hr>
+##OPS
 Get your ops story straight.<br>
 Have crisp answers for<br>
 
