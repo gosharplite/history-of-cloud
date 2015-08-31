@@ -56,6 +56,7 @@
 [CoreOS enable selinux support](https://github.com/coreos/coreos-overlay/pull/777)<br>
 [CoreOS bring in custom selinux work](https://github.com/coreos/coreos-overlay/pull/1311)<br>
 <hr>
+## systemd
 [systemd at the Core of the OS](https://www.youtube.com/watch?v=VIPonFvPlAs) (Lennart Poettering)<br>
 
 1. rkt uses systemd-nspawn for the actual containerization
@@ -66,6 +67,7 @@
 [Unix philosophy](http://en.wikipedia.org/wiki/Unix_philosophy)<br>
 [The Biggest Myths](http://0pointer.de/blog/projects/the-biggest-myths)<br>
 [Why you cannot trust Lennart Poettering / systemd](https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd)<br>
+[About the systemd controversy...](http://blog.erratasec.com/2015/08/about-systemd-controversy.html#.VeOewd9_e6l)
 <hr>
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Martin Kleppmann)<br>
 [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)<br>
