@@ -89,6 +89,7 @@
 <hr>
 ## Joe Beda
 [Container Native Package System](http://www.eightypercent.net/post/new-container-image-format.html), [discussion](https://news.ycombinator.com/item?id=9814131) (Joe Beda)<br>
+[Operations Lock-in vs. Development Lock-in](http://www.eightypercent.net/post/types-of-lock-in.html)<br>
 <hr>
 ## OPS
 Get your ops story straight.<br>
