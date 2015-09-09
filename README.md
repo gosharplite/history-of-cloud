@@ -88,7 +88,7 @@
 [Kelsey vs Solomon](https://twitter.com/solomonstre/status/621938165784297472)<br>
 <hr>
 ## Joe Beda
-[Container Native Package System](http://www.eightypercent.net/post/new-container-image-format.html), [discussion](https://news.ycombinator.com/item?id=9814131) (Joe Beda)<br>
+[Container Native Package System](http://www.eightypercent.net/post/new-container-image-format.html), [discussion](https://news.ycombinator.com/item?id=9814131)<br>
 [Operations Lock-in vs. Development Lock-in](http://www.eightypercent.net/post/types-of-lock-in.html)<br>
 <hr>
 ## OPS
