@@ -72,7 +72,8 @@
 [Unix philosophy](http://en.wikipedia.org/wiki/Unix_philosophy)<br>
 [The Biggest Myths](http://0pointer.de/blog/projects/the-biggest-myths)<br>
 [Why you cannot trust Lennart Poettering / systemd](https://www.linkedin.com/pulse/20140924071300-170035-why-you-cannot-trust-lennart-poettering-systemd)<br>
-[About the systemd controversy...](http://blog.erratasec.com/2015/08/about-systemd-controversy.html#.VeOewd9_e6l)
+[About the systemd controversy...](http://blog.erratasec.com/2015/08/about-systemd-controversy.html#.VeOewd9_e6l)<br>
+[Q&A with Lennart Poettering](https://coreos.com/blog/qa-with-lennart-systemd/)
 <hr>
 ## CAP
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) (Martin Kleppmann)<br>
