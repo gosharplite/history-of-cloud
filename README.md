@@ -84,6 +84,8 @@
 [CAP theorem creator on the future](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95) (Eric Brewer)<br>
 <br>
 [Head to head](https://twitter.com/martinkl/status/613038862919671808?replies_view=true&cursor=AKDWixr0gQg)<br>
+<br>
+[A Critique of the CAP Theorem](http://arxiv.org/abs/1509.05393) (Martin Kleppmann)<br>
 <hr>
 ## runC
 [Kelsey vs Solomon](https://twitter.com/solomonstre/status/621938165784297472)<br>
