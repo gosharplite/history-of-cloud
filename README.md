@@ -18,8 +18,9 @@
 2015/7 - [CNCF](https://cncf.io/) start<br>
 2015/8 - Golang [1.5](https://blog.golang.org/go1.5)<br>
 2015/8 - [GKE](https://cloud.google.com/container-engine/) is [GA](http://googlecloudplatform.blogspot.tw/2015/08/Google-Container-Engine-is-Generally-Available.html)<br>
-2015/10 - [runC == rkt](https://twitter.com/solomonstre/status/655492971572277248) vs [runC == lxc](https://twitter.com/jbeda/status/655468385996673024)<br> 
+2015/10 - Conflict, [runC == rkt](https://twitter.com/solomonstre/status/655492971572277248) vs [runC == lxc](https://twitter.com/jbeda/status/655468385996673024)<br> 
 <hr>
+2015/10 - Conflict, [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html), [twitter](https://twitter.com/BrandonPhilips/status/657228582381457408)<br>
 # Battlefields
 * container (docker, rkt, appc, runC, OCI)
 * minimal linux (coreOS, Atomic, Snappy, RanckerOS)
