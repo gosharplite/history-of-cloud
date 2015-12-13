@@ -29,6 +29,7 @@
 * [devops](https://xebialabs.com/periodic-table-of-devops-tools/) (Puppet/Chef/Ansible/Salt vs. fleet/k8s)
 * open vs proprietary (foundation, enterprise)
 * language (golang, c, java, python)
+* [代码和意识](https://www.youtube.com/watch?v=rHKwIYsPXLg)
 
 <hr>
 ## Insight
