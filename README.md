@@ -21,6 +21,7 @@
 2015/10 - Conflict, [runC == rkt](https://twitter.com/solomonstre/status/655492971572277248) vs [runC == lxc](https://twitter.com/jbeda/status/655468385996673024)<br> 
 2015/10 - Conflict, [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html),  [(twitter)](https://twitter.com/BrandonPhilips/status/657228582381457408)<br>
 2015/12 - [2nd container war](https://coreos.com/blog/making-sense-of-standards/)<br>
+2016/01 - [Why Kubernetes doesn’t use libnetwork](http://blog.kubernetes.io/2016/01/why-Kubernetes-doesnt-use-libnetwork.html)<br>
 <hr>
 # Battlefields
 * container (docker, rkt, appc, runC, OCI)
