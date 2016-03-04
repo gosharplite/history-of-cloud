@@ -23,7 +23,7 @@
 2015/12 - [2nd container war](https://coreos.com/blog/making-sense-of-standards/)<br>
 2016/01 - [Why Kubernetes doesn’t use libnetwork](http://blog.kubernetes.io/2016/01/why-Kubernetes-doesnt-use-libnetwork.html)<br>
 2016/02 - [rkt 1.0](https://coreos.com/blog/rkt-hits-1.0.html)<br>
-2016/03 - Orchestration war. [google k8s](http://queue.acm.org/detail.cfm?id=2898444) vs. [docker](https://blog.docker.com/2016/03/docker-welcomes-aurora-project-creators/) [aurora](https://blog.docker.com/2016/03/democratizing-scale-google-borg-twitter-aurora-docker/)<br>
+2016/03 - Choreography war. [google k8s](http://queue.acm.org/detail.cfm?id=2898444) vs. [docker](https://blog.docker.com/2016/03/docker-welcomes-aurora-project-creators/) [aurora](https://blog.docker.com/2016/03/democratizing-scale-google-borg-twitter-aurora-docker/)<br>
 <hr>
 # Battlefields
 * container (docker, rkt, appc, runC, OCI)
