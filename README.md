@@ -24,6 +24,7 @@
 2016/01 - [Why Kubernetes doesn’t use libnetwork](http://blog.kubernetes.io/2016/01/why-Kubernetes-doesnt-use-libnetwork.html)<br>
 2016/02 - [rkt 1.0](https://coreos.com/blog/rkt-hits-1.0.html)<br>
 2016/03 - Choreography war. [google k8s](http://queue.acm.org/detail.cfm?id=2898444) vs. [docker](https://blog.docker.com/2016/03/docker-welcomes-aurora-project-creators/) [aurora](https://blog.docker.com/2016/03/democratizing-scale-google-borg-twitter-aurora-docker/)<br>
+2016/03 - [The Rise of Cloud Native Computing](https://www.youtube.com/watch?v=axhdIa_co2o#t=43m37s) - Eric Brewer<br>
 2016/04 - [Docker 1.11: The first OCI-compliant runtime, built on containerd](https://blog.docker.com/2016/04/docker-engine-1-11-runc/)<br>
 2016/04 - Celebrating the [OCI Image Format Spec](https://coreos.com/blog/oci-image-specification.html)<br>
 <hr>
