@@ -28,6 +28,7 @@
 2016/04 - [Docker 1.11: The first OCI-compliant runtime, built on containerd](https://blog.docker.com/2016/04/docker-engine-1-11-runc/)<br>
 2016/04 - Celebrating the [OCI Image Format Spec](https://coreos.com/blog/oci-image-specification.html)<br>
 2016/09 - [Forking Docker Not](https://www.linkedin.com/pulse/forking-docker-daniel-riek)<br>
+2016/11 - [Heptio](http://thenewstack.io/towards-cloud-native-operations/)<br>
 <hr>
 # Battlefields
 * container (docker, rkt, appc, runC, OCI)
