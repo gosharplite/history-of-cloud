@@ -29,6 +29,8 @@
 2016/04 - Celebrating the [OCI Image Format Spec](https://coreos.com/blog/oci-image-specification.html)<br>
 2016/09 - [Forking Docker Not](https://www.linkedin.com/pulse/forking-docker-daniel-riek)<br>
 2016/11 - [Heptio](http://thenewstack.io/towards-cloud-native-operations/)<br>
+2017/07 - [Cluster Schedulers](https://medium.com/@cindysridharan/schedulers-kubernetes-and-nomad-b0f2e14a896) - Cindy Sridharan<br>
+2017/07 - [OCI spec 1.0](https://coreos.com/blog/open-container-initiative-specifications-are-10)<br>
 <hr>
 # Battlefields
 * container (docker, rkt, appc, runC, OCI)
