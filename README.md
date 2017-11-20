@@ -31,7 +31,7 @@
 2016/11 - [Heptio](http://thenewstack.io/towards-cloud-native-operations/)<br>
 2017/07 - [Cluster Schedulers](https://medium.com/@cindysridharan/schedulers-kubernetes-and-nomad-b0f2e14a896) - Cindy Sridharan<br>
 2017/07 - [OCI spec 1.0](https://coreos.com/blog/open-container-initiative-specifications-are-10)<br>
-<hr>
+
 # Battlefields
 
 - container (docker, rkt, appc, runC, OCI)
@@ -41,4 +41,3 @@
 - open vs proprietary (foundation, enterprise)
 - language (golang, c, java, python)
 - [Consciousness in AI](https://www.youtube.com/watch?v=rHKwIYsPXLg)
-<hr>
