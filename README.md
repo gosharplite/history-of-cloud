@@ -33,12 +33,12 @@
 2017/07 - [OCI spec 1.0](https://coreos.com/blog/open-container-initiative-specifications-are-10)<br>
 <hr>
 # Battlefields
-* container (docker, rkt, appc, runC, OCI)
-* minimal linux (coreOS, Atomic, Snappy, RanckerOS)
-* distributed cluster (bare metal, hypervisor, container)
-* [devops](https://xebialabs.com/periodic-table-of-devops-tools/) (Puppet/Chef/Ansible/Salt vs. fleet/k8s)
-* open vs proprietary (foundation, enterprise)
-* language (golang, c, java, python)
-* [Consciousness in AI](https://www.youtube.com/watch?v=rHKwIYsPXLg)
 
+- container (docker, rkt, appc, runC, OCI)
+- minimal linux (coreOS, Atomic, Snappy, RanckerOS)
+- distributed cluster (bare metal, hypervisor, container)
+- [devops](https://xebialabs.com/periodic-table-of-devops-tools/) (Puppet/Chef/Ansible/Salt vs. fleet/k8s)
+- open vs proprietary (foundation, enterprise)
+- language (golang, c, java, python)
+- [Consciousness in AI](https://www.youtube.com/watch?v=rHKwIYsPXLg)
 <hr>
