@@ -34,7 +34,7 @@
 2017/11 - GKE, AKS, EKS<br>
 2018/01 - [CoreOS to join Red Hat](https://coreos.com/blog/coreos-agrees-to-join-red-hat/)<br>
 2018/11 - [Heptio is now part of VMware](https://blog.heptio.com/heptio-will-be-joining-forces-with-vmware-on-a-shared-cloud-native-mission-b01225b1bc9e)<br>
-2019/07 - [Red Hat to join IBM](https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future)
+2019/07 - [Red Hat to join IBM](https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future)<br>
 2019/12 - [Oxide Computer Company: Initial boot sequence](https://oxide.computer/blog/introducing-the-oxide-computer-company/)
 
 # Battlefields
