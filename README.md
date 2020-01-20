@@ -33,6 +33,7 @@
 2017/07 - [OCI spec 1.0](https://coreos.com/blog/open-container-initiative-specifications-are-10)<br>
 2017/11 - GKE, AKS, EKS<br>
 2018/01 - [CoreOS to join Red Hat](https://coreos.com/blog/coreos-agrees-to-join-red-hat/)<br>
+2018/11 - [Heptio is now part of VMware](https://blog.heptio.com/heptio-will-be-joining-forces-with-vmware-on-a-shared-cloud-native-mission-b01225b1bc9e)<br>
 
 # Battlefields
 
